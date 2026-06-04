@@ -9,5 +9,4 @@ public class halfPyramid{
         System.err.println();
     }
 }
-
 }

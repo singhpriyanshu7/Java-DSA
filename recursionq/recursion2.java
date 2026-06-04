@@ -12,4 +12,3 @@ public class recursion2{
         String str="abcdef";
         printString(str,str.length()-1);
     }
-}
