@@ -21,3 +21,5 @@ arr[j+1]=temp;
     }
     
 }
+//now for the optimal soln
+ 
