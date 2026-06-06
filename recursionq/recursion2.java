@@ -4,11 +4,11 @@ public class recursion2{
             System.out.println(str.charAt(i));
             return;
         }
+        
         System.out.println(str.charAt(i));
-        //System.out.print(str.charAt(i));
-        printString(str, i-1);
-    }
-    public static void main(String[] args) {
+        //System.out.print(str.charAt(i))
+        printString(str, i-1);}
+        public static void main(String[] args) {
         String str="abcdef";
-        printString(str,str.length()-1);
-    }
+        printString(str,str.length()-1);}
+}

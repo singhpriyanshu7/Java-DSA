@@ -8,4 +8,5 @@ public class inverthalfpyramid{
             System.out.println();
         }
     }
-}
+} 
+//hey this is my comment to check git add .
